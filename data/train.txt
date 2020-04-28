@@ -1,0 +1,219 @@
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/55.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/62.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/217.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/60.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/75.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/226.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/61.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/69.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/213.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/71.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/233.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/189.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/212.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/48.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/184.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/77.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/54.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/78.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/51.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/214.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/79.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/195.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/232.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/225.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/186.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/187.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/238.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/81.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/243.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/193.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/76.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/46.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/40.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/185.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/227.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/229.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/218.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/31.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/237.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/192.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/63.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/210.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/72.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/57.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/59.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/191.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/194.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/56.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/65.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/80.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/68.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/73.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/231.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/50.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/49.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/67.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/47.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/b/188.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/107.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/122.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/21.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/55.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/124.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/62.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/8.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/136.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/123.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/163.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/162.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/119.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/4.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/27.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/131.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/0.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/6.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/60.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/75.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/32.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/129.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/113.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/61.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/114.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/35.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/106.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/71.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/126.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/158.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/137.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/5.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/97.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/128.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/145.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/150.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/48.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/77.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/144.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/52.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/135.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/127.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/78.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/96.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/154.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/51.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/117.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/41.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/79.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/125.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/25.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/121.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/108.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/141.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/64.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/53.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/112.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/151.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/37.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/102.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/94.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/76.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/84.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/10.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/46.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/40.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/34.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/90.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/134.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/159.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/92.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/149.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/58.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/11.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/39.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/3.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/130.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/104.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/19.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/120.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/101.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/105.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/13.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/66.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/89.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/23.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/147.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/63.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/109.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/2.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/72.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/138.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/57.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/59.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/110.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/29.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/1.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/142.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/56.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/152.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/87.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/74.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/139.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/17.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/65.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/68.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/82.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/95.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/143.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/83.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/73.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/30.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/42.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/50.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/49.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/67.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/133.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/164.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/161.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/160.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/45.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/38.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/111.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/140.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/156.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/a/36.jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (643).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (575).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (86).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (1006).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (299).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (265).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (843).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (395).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (70).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (1046).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (1362).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (781).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (317).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (22).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (835).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (1325).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (473).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (351).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (657).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (1358).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (587).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (66).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (940).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (455).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (458).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (363).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (523).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (281).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (1085).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (73).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (898).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (947).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (968).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (538).jpg", "label": 2}
+{"filename": "/raid/home/zhaochao/weapon_detect/raw_data/2/gun/g (300).jpg", "label": 2}
+

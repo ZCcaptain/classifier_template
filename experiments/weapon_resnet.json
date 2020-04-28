@@ -1,0 +1,17 @@
+{
+    "dataset": "diy",
+    "model": "resnet",
+    "data_root": "/raid/home/zhaochao/weapon_detect/data/",
+    "raw_data_root": "/raid/home/zhaochao/weapon_detect/raw_data/",
+    "train": "train.txt",
+    "dev": "dev.txt",
+    "print_epoch": 3,
+    "evaluation_epoch":0,
+    "activation": "tanh",
+    "optimizer": "adam",
+    "criterion": "CrossEntropyLoss",
+    "epoch_num": 100,
+    "train_batch": 32,
+    "eval_batch": 32,
+    "gpu":0
+}
